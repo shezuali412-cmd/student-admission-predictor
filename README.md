@@ -72,16 +72,41 @@ Shehzad Ali — Artificial Intelligence Student
 ## Data Visualizations
 
 ### 1. Admission Distribution
-![Admission Distribution](admission_distribution.png)
+![Admission Distribution](images/admission_distribution.png)
 
 ### 2. GRE Score Distribution
-![GRE Score Distribution](gre_distribution.png)
+![GRE Score Distribution](images/gre_distribution.png)
 
 ### 3. GPA Distribution
-![GPA Distribution](gpa_distribution.png)
+![GPA Distribution](images/gpa_distribution.png)
 
 ### 4. GRE Score vs GPA
-![GRE vs GPA](gre_vs_gpa.png)
+![GRE vs GPA](images/gre_vs_gpa.png)
 
 ### 5. Admission Rate by University Rank
-![Admission by University Rank](admission_by_rank.png)
+![Admission by University Rank](images/admission_by_rank.png)
+
+## Interactive Web Application
+
+This project includes a web application built with Streamlit. Users can enter their GRE score, GPA, and university rank to receive a machine learning prediction.
+
+### Run the Web App Locally
+
+1. Install the required libraries:
+
+   `pip install -r requirements.txt`
+
+2. Start the Streamlit application:
+
+   `python -m streamlit run app.py`
+
+3. Open the local URL shown in your terminal, usually `http://localhost:8501`.
+
+### Application Features
+
+- Interactive input fields for GRE, GPA, and university rank
+- Admission prediction using Logistic Regression
+- Estimated admission probability
+- Simple browser-based interface
+
+**Disclaimer:** This is an educational project using historical admissions data. Predictions are estimates and should not be used as actual admission decisions.
