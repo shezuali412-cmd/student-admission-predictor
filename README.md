@@ -110,3 +110,9 @@ This project includes a web application built with Streamlit. Users can enter th
 - Simple browser-based interface
 
 **Disclaimer:** This is an educational project using historical admissions data. Predictions are estimates and should not be used as actual admission decisions.
+
+## 🚀 Live Demo
+
+Try my Student Admission Predictor online:
+
+[**Open Student Admission Predictor**](https://student-admission-predictor-3hb6jitt5evq7atc57nzg8.streamlit.app/)
