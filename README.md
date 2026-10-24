@@ -72,16 +72,16 @@ Shehzad Ali — Artificial Intelligence Student
 ## Data Visualizations
 
 ### 1. Admission Distribution
-![Admission Distribution](images/admission_distribution.png)
+![Admission Distribution](admission_distribution.png)
 
 ### 2. GRE Score Distribution
-![GRE Score Distribution](images/gre_distribution.png)
+![GRE Score Distribution](gre_distribution.png)
 
 ### 3. GPA Distribution
-![GPA Distribution](images/gpa_distribution.png)
+![GPA Distribution](gpa_distribution.png)
 
 ### 4. GRE Score vs GPA
-![GRE vs GPA](images/gre_vs_gpa.png)
+![GRE vs GPA](gre_vs_gpa.png)
 
 ### 5. Admission Rate by University Rank
-![Admission by University Rank](images/admission_by_rank.png)
+![Admission by University Rank](admission_by_rank.png)
