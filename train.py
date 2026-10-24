@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load the real dataset
-df = pd.read_csv("data/binary.csv")
+df = pd.read_csv("binary.csv")
 
 # Show first 5 rows
 print("First 5 rows:")

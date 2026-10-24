@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Load dataset
-df = pd.read_csv("data/binary.csv")
+df = pd.read_csv("binary.csv")
 
 X = df[["gre", "gpa", "rank"]]
 y = df["admit"]
